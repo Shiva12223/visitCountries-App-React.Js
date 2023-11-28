@@ -1,0 +1,18 @@
+.visit-btn {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border-radius: 5px;
+  height: 30px;
+  width: 70px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+.button-status {
+  color: #94a3b8;
+  margin-right: 10px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
